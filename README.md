@@ -59,3 +59,5 @@ supporting in an entry-level help desk role. Reading about Active Directory
 is one thing; actually creating users, resetting passwords, unlocking
 accounts, and troubleshooting a failed domain join is another. The lab
 lets me practice real scenarios in a safe environment.
+
+Note: The errors creating the red Local Server and All Servers tiles in the Server Manager image is caused by a known cosmetic SAM/KDC event on Windows Server 2025. The domain controller is fully functional — verified with dcdiag and successful domain logins from WS-01.
