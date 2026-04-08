@@ -3,7 +3,7 @@
 A Windows Server 2025 and Windows 11 Pro domain environment built from scratch
 in VirtualBox to practice the core skills used in IT help desk work.
 
-![Network Diagram](screenshots/01-network-diagram.png)
+![Network Diagram](screenshots/ad-users-computers.png)
 
 ## What I Built
 
@@ -59,7 +59,3 @@ supporting in an entry-level help desk role. Reading about Active Directory
 is one thing; actually creating users, resetting passwords, unlocking
 accounts, and troubleshooting a failed domain join is another. The lab
 lets me practice real scenarios in a safe environment.
-
-## Contact
-
-[Your Name] — [your email] — [your LinkedIn URL]
