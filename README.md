@@ -3,7 +3,7 @@
 A Windows Server 2025 and Windows 11 Pro domain environment built from scratch
 in VirtualBox to practice the core skills used in IT help desk work.
 
-![ADUC](ScreenShots/ad-users-computers.png)
+![ADUC](ScreenShots/Server-Manager.png)
 
 ## What I Built
 
@@ -61,3 +61,4 @@ accounts, and troubleshooting a failed domain join is another. The lab
 lets me practice real scenarios in a safe environment.
 
 Note: The errors creating the red Local Server and All Servers tiles in the Server Manager image is caused by a known cosmetic SAM/KDC event on Windows Server 2025. The domain controller is fully functional — verified with dcdiag and successful domain logins from WS-01.
+![Error ScreenShot](ScreenShots/critical-error.png)
