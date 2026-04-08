@@ -3,7 +3,7 @@
 A Windows Server 2025 and Windows 11 Pro domain environment built from scratch
 in VirtualBox to practice the core skills used in IT help desk work.
 
-![ADUC](ScreenShots/ad-users-computers.png)
+![ADUC](ScreenShots/aduc.png)
 
 ## What I Built
 
